@@ -11,7 +11,7 @@
 - 📝 Writing solution articles & projects on **LeetCode / GitHub**
 - 🏓 Member of coding & hackathon communities  
 - 🌄 Love exploring tech + outdoor adventures  
-- 🌱 Currently learning **Agentic AI & LLM Workflows** 
+- 🌱 Currently learning **LLM Workflows, NLP, Machine Learning, Deep Learning** 
 
 ---
 
