@@ -2,11 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue&style=flat)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/your-handle)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@your-handle)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/divya-deepthi-paruchuri-7683172ba)
 ---
 
 ## 👩‍💻 About Me  
@@ -50,25 +46,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
----
-
-## 📌 Quote I Like  
-> *"When in doubt, leave it out."* – Joshua Bloch  
-
----
-
-## 📰 Latest Blog Posts  
-- [Into the Abyss – Crater Lake, a travelogue!](#)  
-- [Unmasking Bitmasked Dynamic Programming](#)  
-- [The Perfect Programming Interview Problem](#)  
-- [Fun with Array Rotations](#)  
-
----
-
-## 📊 GitHub Stats  
-
-![Deepthi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
-
----
