@@ -1,6 +1,6 @@
 # Hi, I'm Divya Deepthi
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/divya-deepthi-paruchuri-7683172ba)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divya-deepthi-paruchuri-7683172ba)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/deepthi0104)
 [![X](https://img.shields.io/badge/X-black?style=flat)](https://x.com/DivyaDeepthi824)
 
