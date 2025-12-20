@@ -9,10 +9,10 @@
 
 ##  About Me  
 
-- 🔭 Currently working on **AI Agent Systems**  
-- 📝 Writing solution articles & projects on **LeetCode / GitHub**
-- 🏓 Member of coding & hackathon communities  
-- 🌄 Love exploring tech + outdoor adventures
+-  Currently working on **AI Agent Systems**  
+-  Writing solution articles & projects on **LeetCode / GitHub**
+-  Member of coding & hackathon communities  
+-  Love exploring tech + outdoor adventures
 
 ---
 
