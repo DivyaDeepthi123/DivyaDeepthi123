@@ -1,7 +1,6 @@
 # Hi, I'm Divya Deepthi
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divya-deepthi-paruchuri-7683172ba/
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divya-deepthi-paruchuri-7683172ba/)
 
 ---
 
